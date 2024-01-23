@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Ui/Ux Designing
 - 📫 How to reach me
-Email: hillarymanoti0@gmail.com
-Phone: +254745739543
-Instagram: _lil_musa
+-Email: hillarymanoti0@gmail.com
+-Phone: +254745739543
+-Instagram: _lil_musa
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: if(bugs){
               iHatePrograming();
