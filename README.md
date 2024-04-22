@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Aws and Ai**
 
-- 💬 Ask me about **React.js , Javasript Python**
+- 💬 Ask me about **React.js , Javasript , Python**
 
 - 📫 How to reach me **hillarymanoti0@gmail.com**
 
