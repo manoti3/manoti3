@@ -20,13 +20,10 @@ You can click the Preview link to take a look at your changes.
 
 📫 Let's collaborate! Reach me at [hillarymanoti0@gmail.com] or [https://www.linkedin.com/in/hillary-manoti-16636128b/]
 
-<div align="center" dir="auto">
- <img style="width: 49%;" src="" />
- <img style="width: 49%;" src="" />
-</div>
+
 <img src="./animated-line.gif">
 
-### Languages <img align="right" src="" />
+### Languages 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
