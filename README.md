@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 <img src="./about_me.gif" width=50px>**ABOUT ME**
 
-- Software Engineering bootcamp graduate from Moringa School in Kenya
-- Currently learning Aws + Ai
+💻Software Engineering bootcamp graduate from Moringa School in Kenya
+  Currently learning Aws + Ai
 👋 Hi, I’m @manoti3
 
 👋 Software Engineer | Problem Solver | Code Enthusiast
