@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hillarymanoti0@gmail.com**
 
-- My Portfolio <a href="https://hillary-manoti-portfolio.vercel.app/"> </a>
+- My Portfolio **"https://hillary-manoti-portfolio.vercel.app/"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
